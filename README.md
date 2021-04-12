@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 
 
-You can find me on [![Twitter][1.2]][1]
+You can find me on Twitter [![Twitter][1.2]][1]
 
 <!-- Icons -->
 
