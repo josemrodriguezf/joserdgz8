@@ -4,7 +4,7 @@
 
 #### UC Merced
 
-Water Systems Management Lab
+Graduate Student Researcher in the Water Systems Management Lab
 
 https://wsm.ucmerced.edu/
 
