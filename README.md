@@ -1,6 +1,6 @@
 ### José M. Rodríguez Flores
 
-### PhD Candidate Environmental Systems Program
+### PhD Candidate Environmental Systems
 
 #### UC Merced
 
