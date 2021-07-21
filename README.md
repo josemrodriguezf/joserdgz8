@@ -1,7 +1,13 @@
-### Hi there 👋
+### José M. Rodríguez Flores
+PhD Candidate Environmental Systems Program at UC Mecred
+Water systems management lab
+https://wsm.ucmerced.edu/
+
 Reach me at jrodriguezflores3@ucmerced.edu 
 
 You can find me on Twitter: [![Twitter][1.2]][1]
+
+
 
 <!-- Icons -->
 
