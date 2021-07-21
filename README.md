@@ -1,6 +1,11 @@
 ### José M. Rodríguez Flores
-PhD Candidate Environmental Systems Program at UC Mecred
-Water systems management lab
+
+### PhD Candidate Environmental Systems Program
+
+#### UC Merced
+
+Water Systems Management Lab
+
 https://wsm.ucmerced.edu/
 
 Reach me at jrodriguezflores3@ucmerced.edu 
